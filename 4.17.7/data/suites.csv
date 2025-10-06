@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"1. Verify that all UI elements are accessible and can be filled on Sign and Sync Tab correctly.
+      2. Verify that Complete action is working properly on mobile devices.","79952","should complete a new full patient record","OneResponse Mobile - Online Users","Mon Oct 06 10:36:03 BST 2025","passed","Mon Oct 06 10:37:23 BST 2025","","","",""
+"1. Verify that Log Out feature is working properly on mobile devices.","31979","should log out","OneResponse Mobile - Online Users","Mon Oct 06 10:37:23 BST 2025","passed","Mon Oct 06 10:37:55 BST 2025","","","",""
+"1. Validate that a Admin can view and access the correct PDFs under all relevant tiles and tabs according to their assigned permissions.
+     2. Ensure that each accessible PDF opens correctly.","111818","should access all PDFs under tabs","OneResponse Mobile - Online Users","Mon Oct 06 10:34:11 BST 2025","passed","Mon Oct 06 10:36:03 BST 2025","","","",""
+"1. Verify that a Admin can access tiles and tabs according to their assigned permissions.
+      2. Verify that all UI elements are accessible and can be filled in correctly.","1108837","should create a new full patient record","OneResponse Mobile - Online Users","Mon Oct 06 10:15:43 BST 2025","passed","Mon Oct 06 10:34:11 BST 2025","","","",""

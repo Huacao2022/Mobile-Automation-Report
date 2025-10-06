@@ -1,0 +1,34 @@
+.........Console Logs.........
+
+🔹 Accessing Tile: PDF on Tabs
+   ↪ Executing Tab: PDF on Tabs
+"Pain Score Guide" PDF opened successfully
+"Clinical Frailty Scale" PDF opened successfully
+ Button worked on attempt 1
+"Adults and Children Burns" PDF opened successfully
+"Adult Major Trauma" PDF opened successfully
+"Children Major Trauma" PDF opened successfully
+"Manchester Triage System" PDF opened successfully
+"Medical Pathfinder" PDF opened successfully
+"Trauma Pathfinder" PDF opened successfully
+ Button worked on attempt 1
+"Guidelines" PDF opened successfully
+ Button worked on attempt 1
+"STEMI Ref Card" PDF opened successfully
+"STEMI Bundle" PDF opened successfully
+"Stroke Bundle" PDF opened successfully
+ Button worked on attempt 1
+"View Post - ROSC" PDF opened successfully
+ Button worked on attempt 1
+"Rule of Nines" PDF opened successfully
+ Button worked on attempt 1
+"Decision Tool Guideline" PDF opened successfully
+ Button worked on attempt 1
+"Fit to Sit Checklist" PDF opened successfully
+"HAS Screen HALO Guidance" PDF opened successfully
+"Handover 45" PDF opened successfully
+ Button worked on attempt 1
+"Display Coroner Areas" PDF opened successfully
+ Button worked on attempt 1
+"Final impression" PDF opened successfully
+ Button worked on attempt 1

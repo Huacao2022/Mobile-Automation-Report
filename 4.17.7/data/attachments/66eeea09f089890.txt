@@ -1,0 +1,4 @@
+.........Console Logs.........
+
+ Button worked on attempt 1
+Patient Record has been completed successfully

@@ -1,0 +1,133 @@
+.........Console Logs.........
+
+🔹 Accessing Tile: Notes
+   ↪ Executing Tab: Notes
+Completed: Notes Tile - Notes Tab
+   ↪ Executing Tab: Media
+All contexts before photo: [ [32m'NATIVE_APP'[39m, [32m'CHROMIUM'[39m ]
+Active context after switch: NATIVE_APP
+🔄 Switched to front camera.
+Found shutter button via: ~Take picture
+✅ Found OK button via: //*[@resource-id='com.sec.android.app.camera:id/okay']
+📸 OK button clicked successfully
+Context after restoring: CHROMIUM
+Completed: Notes Tile - Media Notes Tab
+ Button worked on attempt 2
+🔹 Accessing Tile: Incident Information
+   ↪ Executing Tab: Incident Information
+Completed: Incident Information Tile - Incident Information Tab
+ Button worked on attempt 1
+🔹 Accessing Tile: Patient Details
+   ↪ Executing Tab: Patient Details
+Selecting date: 21 August 1989
+Completed: Patient Details Tile - Patient Details Tab
+   ↪ Executing Tab: NoK and GP
+Completed: Patient Details Tile - NoK and GP Tab
+ Button worked on attempt 1
+🔹 Accessing Tile: Clinical Observations
+   ↪ Executing Tab: Clinical Observations
+Completed: Clinical Observations Tile - Clinical Observations Tab
+ Button worked on attempt 1
+🔹 Accessing Tile: Triage and Pathfinder
+   ↪ Executing Tab: Specialist Pathways
+Completed: Triage and Pathfinder Tile - Specialist Pathways Tab
+   ↪ Executing Tab: Major Trauma
+Completed: Triage and Pathfinder Tile - Major Trauma Tab
+   ↪ Executing Tab: MTS
+Completed: Triage and Pathfinder Tile - MTS Tab
+   ↪ Executing Tab: Pathfinders
+Completed: Triage and Pathfinder Tile - Pathfinders Tab
+   ↪ Executing Tab: Joint Decision
+Completed: Triage and Pathfinder Tile - Joint Decision Tab
+ Button worked on attempt 1
+🔹 Accessing Tile: Falls Assessment
+   ↪ Executing Tab: Falls Assessment
+Completed: Falls Assessment Tile - Falls Assessment Tab
+ Button worked on attempt 1
+🔹 Accessing Tile: Airways Management
+   ↪ Executing Tab: Airways Management
+Completed: Airways Management Tile - Airways Management Tab
+ Button worked on attempt 1
+🔹 Accessing Tile: Cardiovascular and Stroke
+   ↪ Executing Tab: Cardiac Assessment
+Completed: Cardiovascular And Stroke Tile - Cardiac Assessment Tab
+   ↪ Executing Tab: Stroke Assessment
+Completed: Cardiovascular And Stroke Tile - Stroke Assessment Tab
+ Button worked on attempt 1
+🔹 Accessing Tile: Cardiac Arrest
+   ↪ Executing Tab: Cardiac Arrest
+Completed: Cardiac Arrest Tile - Cardiac Arrest Tab
+ Button worked on attempt 2
+🔹 Accessing Tile: IV Access and Medications
+   ↪ Executing Tab: IV/IO Access
+Completed: IV Access and Medications Tile - IV/IO Access Tab
+   ↪ Executing Tab: Drugs/Meds
+ Button worked on attempt 1
+Completed: IV Access and Medications Tile - Drugs/Meds Tab
+🔹 Accessing Tile: Trauma Management
+   ↪ Executing Tab: Trauma Management
+Completed: Trauma Management Tile - Trauma Management Tab
+   ↪ Executing Tab: Musculoskeletal
+Completed: Trauma Management Tile - Musculoskeletal Tab
+   ↪ Executing Tab: Burns
+Completed: Trauma Management Tile - Burns Tab
+ Button worked on attempt 1
+🔹 Accessing Tile: Transport Options
+   ↪ Executing Tab: Transport Options
+ Button worked on attempt 1
+Completed: Transport Options Tile - Transport Options Tab
+🔹 Accessing Tile: Enhanced Care
+   ↪ Executing Tab: Enhanced Care
+ Button worked on attempt 1
+Completed: Enhanced Care Tile - Enhanced Care Tab
+🔹 Accessing Tile: Maternity Care
+   ↪ Executing Tab: Maternity Decision
+Completed: Maternity Care Tile - Maternity Care Tab
+   ↪ Executing Tab: Mother
+Completed: Maternity Care Tile - Mother Tab
+   ↪ Executing Tab: Baby 1
+Completed: Maternity Care Tile - Baby 1 Tab
+   ↪ Executing Tab: Baby 2
+Completed: Maternity Care Tile - Baby 2 Tab
+ Button worked on attempt 1
+🔹 Accessing Tile: Mental Health
+   ↪ Executing Tab: Background
+Completed: Mental Health Tile - Background Tab
+   ↪ Executing Tab: BASIC
+Completed: Mental Health Tile - BASIC Tab
+   ↪ Executing Tab: STEP
+Completed: Mental Health Tile - STEP Tab
+   ↪ Executing Tab: Shared Decisions
+No crashes: Mental Health Tile - Shared Decisions Tab
+ Button worked on attempt 1
+🔹 Accessing Tile: Comms, Consent and Notifications
+   ↪ Executing Tab: Communication
+Completed: Comms, Consent and Notifications Tile - Communication Tab
+   ↪ Executing Tab: Consent
+Completed: Comms, Consent and Notifications Tile - Consent Tab
+ Button worked on attempt 2
+🔹 Accessing Tile: Hospital Handover
+   ↪ Executing Tab: Fit to Sit
+ Button worked on attempt 1
+Completed: Hospital Handover Tile - Fit to Sit Tab
+🔹 Accessing Tile: Capacity to Consent
+   ↪ Executing Tab: MCA
+Completed: Capacity to Consent Tile - MCA Tab
+   ↪ Executing Tab: Decisions
+Completed: Capacity to Consent Tile - Decisions Tab
+   ↪ Executing Tab: Gained Capacity
+Completed: Capacity to Consent Tile - Gained Capacity Tab
+   ↪ Executing Tab: Best Interest
+Completed: Capacity to Consent Tile - Best Interest Tab
+ Button worked on attempt 1
+🔹 Accessing Tile: Diagnosis of Death
+   ↪ Executing Tab: Diagnosis of Death
+Completed: Diagnosis of Death Tile - Diagnosis of Death Tab
+ Button worked on attempt 1
+🔹 Accessing Tile: Sign and Sync
+   ↪ Executing Tab: Referral
+Completed: Sign and Sync Tile - Referral Tab
+   ↪ Executing Tab: Patient Refusal
+Completed: Sign and Sync Tile - Patient Refusal Tab
+ Button worked on attempt 1
+⏩ Skipping tile: PDF on Tabs
